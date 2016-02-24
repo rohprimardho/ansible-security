@@ -1,5 +1,5 @@
 ---
 - name: restart sshd
   service:
-    name: sshda
+    name: sshd
     state: restarted
