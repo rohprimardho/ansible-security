@@ -34,4 +34,4 @@
 
 - name: change hostname 
   hostname: 
-    name: "{{ new_hostname }}"
+    name: "{{ inventory_hostname }}"

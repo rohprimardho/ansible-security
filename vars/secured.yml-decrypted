@@ -1,0 +1,5 @@
+---
+new_user: 
+current_user: 
+#python -c 'import crypt; print crypt.crypt("This is my Password", "$1$SomeSalt$")'
+new_user_password: 
